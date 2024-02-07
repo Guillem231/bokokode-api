@@ -1,0 +1,564 @@
+[
+  {
+    "_id": "62f21d08a65692271708e9b7",
+    "name": "Samurai King Resting",
+    "category": "people",
+    "price": 261,
+    "currency": "EUR",
+    "image": {
+      "src": "https://technical-frontend-api.bokokode.com/img/Product_Featured_product.png",
+      "alt": "Illo dolor quos aut voluptatem qui consequatur sit."
+    },
+    "bestseller": true,
+    "featured": true,
+    "description": "So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely scrambled part of Cicero's De Finibus in order to provide placeholder text to mockup various fonts for a type specimen book.So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely scrambled part of Cicero's De Finibus in order to provide placeholder text to mockup various fonts for a type specimen book.So how did the classical Latin become so incoherent? According to McClintock.",
+    "people_also_buy": [
+      {
+        "_id": "62f21d08a65692271708e9b7",
+        "name": "Illo dolor",
+        "category": "people",
+        "price": 261,
+        "currency": "EUR",
+        "image": {
+          "src": "https://technical-frontend-api.bokokode.com/img/Product_2.png",
+          "alt": "Accusamus officia sunt qui officiis quod."
+        },
+        "bestseller": false,
+        "featured": false,
+        "description": "Incidunt libero consequatur inventore voluptas neque dolor odit. Suscipit quos ab quo voluptatem. Saepe a ut ad et ratione.",
+        "people_also_buy": [],
+        "updated_at": "2022-08-09T08:38:32.053000Z",
+        "created_at": "2022-08-09T08:38:32.053000Z"
+      },
+      {
+        "_id": "62f21d08a65692271708e9b8",
+        "name": "Placeat illo",
+        "category": "nature",
+        "price": 470,
+        "currency": "EUR",
+        "image": {
+          "src": "https://technical-frontend-api.bokokode.com/img/Product_3.png",
+          "alt": "Nostrum consequatur ut nesciunt quia hic qui quis."
+        },
+        "bestseller": false,
+        "featured": false,
+        "description": "Molestias nam enim sunt. Doloremque voluptatem quisquam excepturi.",
+        "people_also_buy": [],
+        "updated_at": "2022-08-09T08:38:32.057000Z",
+        "created_at": "2022-08-09T08:38:32.057000Z"
+      },
+      {
+        "_id": "62f21d08a65692271708e9b9",
+        "name": "Eum in",
+        "category": "cities",
+        "price": 306,
+        "currency": "EUR",
+        "image": {
+          "src": "https://technical-frontend-api.bokokode.com/img/Product_3.png",
+          "alt": "Nostrum consequatur ut nesciunt quia hic qui quis."
+        },
+        "bestseller": false,
+        "featured": false,
+        "description": "Ab unde voluptate quidem omnis mollitia eligendi vitae animi. Eius praesentium asperiores est quia. Dolor earum eaque laudantium aperiam possimus temporibus amet et.",
+        "people_also_buy": [],
+        "updated_at": "2022-08-09T08:38:32.057000Z",
+        "created_at": "2022-08-09T08:38:32.057000Z"
+      }
+    ],
+    "updated_at": "2022-08-09T08:38:32.066000Z",
+    "created_at": "2022-08-09T08:38:32.053000Z"
+  },
+  {
+    "_id": "62f21d08a65692271708e9b8",
+    "name": "Placeat illo",
+    "category": "nature",
+    "price": 470,
+    "currency": "EUR",
+    "image": {
+      "src": "https://technical-frontend-api.bokokode.com/img/Product_3.png",
+      "alt": "Nostrum consequatur ut nesciunt quia hic qui quis."
+    },
+    "bestseller": false,
+    "featured": false,
+    "description": "Molestias nam enim sunt. Doloremque voluptatem quisquam excepturi.",
+    "people_also_buy": [],
+    "updated_at": "2022-08-09T08:38:32.057000Z",
+    "created_at": "2022-08-09T08:38:32.057000Z"
+  },
+  {
+    "_id": "62f21d08a65692271708e9b9",
+    "name": "Eum in ",
+    "category": "cities",
+    "price": 306,
+    "currency": "EUR",
+    "image": {
+      "src": "https://technical-frontend-api.bokokode.com/img/Product_3.png",
+      "alt": "Tempore vel iste sed ea."
+    },
+    "bestseller": false,
+    "featured": false,
+    "description": "Ab unde voluptate quidem omnis mollitia eligendi vitae animi. Eius praesentium asperiores est quia. Dolor earum eaque laudantium aperiam possimus temporibus amet et.",
+    "people_also_buy": [],
+    "updated_at": "2022-08-09T08:38:32.057000Z",
+    "created_at": "2022-08-09T08:38:32.057000Z"
+  },
+  {
+    "_id": "62f21d08a65692271708e9ba",
+    "name": "Delectus iusto",
+    "category": "cities",
+    "price": 370,
+    "currency": "EUR",
+    "image": {
+      "src": "https://technical-frontend-api.bokokode.com/img/Product_1.png",
+      "alt": "Ut sed officia dolores quo ut."
+    },
+    "bestseller": true,
+    "featured": false,
+    "description": "Voluptatibus dignissimos sapiente suscipit. Perspiciatis omnis minus nemo aspernatur. Itaque voluptatibus cum qui rerum deleniti facilis. Aperiam ipsam provident soluta excepturi qui.",
+    "people_also_buy": [],
+    "updated_at": "2022-08-09T08:38:32.057000Z",
+    "created_at": "2022-08-09T08:38:32.057000Z"
+  },
+  {
+    "_id": "62f21d08a65692271708e9bb",
+    "name": "Expedita ratione ",
+    "category": "food",
+    "price": 221,
+    "currency": "EUR",
+    "image": {
+      "src": "https://technical-frontend-api.bokokode.com/img/Product_2.png",
+      "alt": "Libero aliquid et reiciendis ullam."
+    },
+    "bestseller": false,
+    "featured": false,
+    "description": "Quia non modi consequuntur debitis optio minima sint. Commodi a corrupti porro quidem exercitationem fugiat dolorem. Officiis velit atque est explicabo laudantium quibusdam sit.",
+    "people_also_buy": [],
+    "updated_at": "2022-08-09T08:38:32.057000Z",
+    "created_at": "2022-08-09T08:38:32.057000Z"
+  },
+  {
+    "_id": "62f21d08a65692271708e9bc",
+    "name": "Libero necessitatibus",
+    "category": "cities",
+    "price": 126,
+    "currency": "EUR",
+    "image": {
+      "src": "https://technical-frontend-api.bokokode.com/img/Product_2.png",
+      "alt": "Maxime aliquid incidunt qui est sequi quas."
+    },
+    "bestseller": false,
+    "featured": false,
+    "description": "Suscipit iure occaecati nihil eum. Neque velit alias molestias necessitatibus in. Consequatur quia sed qui consequuntur voluptatem odio possimus.",
+    "people_also_buy": [],
+    "updated_at": "2022-08-09T08:38:32.057000Z",
+    "created_at": "2022-08-09T08:38:32.057000Z"
+  },
+  {
+    "_id": "62f21d08a65692271708e9bd",
+    "name": "Accusamus culpa",
+    "category": "cities",
+    "price": 213,
+    "currency": "EUR",
+    "image": {
+      "src": "https://technical-frontend-api.bokokode.com/img/Product_2.png",
+      "alt": "Quis sed voluptates est perferendis."
+    },
+    "bestseller": true,
+    "featured": false,
+    "description": "Dignissimos fugiat enim sint corporis vel quia fugit. Fugiat et ullam quidem dolor reiciendis ex. Voluptatibus vel nihil accusantium qui atque doloremque.",
+    "people_also_buy": [],
+    "updated_at": "2022-08-09T08:38:32.057000Z",
+    "created_at": "2022-08-09T08:38:32.057000Z"
+  },
+  {
+    "_id": "62f21d08a65692271708e9be",
+    "name": "Vitae saepe ",
+    "category": "premium",
+    "price": 388,
+    "currency": "EUR",
+    "image": {
+      "src": "https://technical-frontend-api.bokokode.com/img/Product_1.png",
+      "alt": "Facilis sed eaque vitae vel rerum reiciendis sed dicta."
+    },
+    "bestseller": true,
+    "featured": false,
+    "description": "Velit nulla eum repudiandae et omnis qui omnis fugit. Quia inventore qui consequuntur ut veritatis occaecati illum. Delectus non numquam quisquam eos repellendus quia.",
+    "people_also_buy": [],
+    "updated_at": "2022-08-09T08:38:32.058000Z",
+    "created_at": "2022-08-09T08:38:32.058000Z"
+  },
+  {
+    "_id": "62f21d08a65692271708e9bf",
+    "name": "Est reprehenderit",
+    "category": "people",
+    "price": 498,
+    "currency": "EUR",
+    "image": {
+      "src": "https://technical-frontend-api.bokokode.com/img/Product_1.png",
+      "alt": "Dicta beatae accusamus voluptas voluptatum impedit consequatur."
+    },
+    "bestseller": false,
+    "featured": false,
+    "description": "Consequuntur autem quo reiciendis est aut. Est a est eligendi quaerat quisquam saepe accusantium. Fugit quam voluptatum pariatur voluptate.",
+    "people_also_buy": [],
+    "updated_at": "2022-08-09T08:38:32.058000Z",
+    "created_at": "2022-08-09T08:38:32.058000Z"
+  },
+  {
+    "_id": "62f21d08a65692271708e9c0",
+    "name": "Doloremque corporis",
+    "category": "people",
+    "price": 213,
+    "currency": "EUR",
+    "image": {
+      "src": "https://technical-frontend-api.bokokode.com/img/Product_1.png",
+      "alt": "Voluptatem sed quisquam est."
+    },
+    "bestseller": true,
+    "featured": false,
+    "description": "Nemo cumque quas dignissimos hic minima eaque. Dolorem dicta ducimus est quo neque nihil. Earum saepe sunt qui et. Voluptatibus iure quia sed eligendi dolores atque quam.",
+    "people_also_buy": [],
+    "updated_at": "2022-08-09T08:38:32.058000Z",
+    "created_at": "2022-08-09T08:38:32.058000Z"
+  },
+  {
+    "_id": "62f21d08a65692271708e9c1",
+    "name": "Perferendis qui",
+    "category": "people",
+    "price": 66,
+    "currency": "EUR",
+    "image": {
+      "src": "https://technical-frontend-api.bokokode.com/img/Product_1.png",
+      "alt": "Harum aliquid debitis quaerat voluptate soluta qui."
+    },
+    "bestseller": true,
+    "featured": false,
+    "description": "Ullam voluptates commodi nisi sed. Quia optio molestiae dolor fugit non. Alias porro consequuntur qui similique qui totam aliquid.",
+    "people_also_buy": [],
+    "updated_at": "2022-08-09T08:38:32.058000Z",
+    "created_at": "2022-08-09T08:38:32.058000Z"
+  },
+  {
+    "_id": "62f21d08a65692271708e9c2",
+    "name": "Ipsam doloremque",
+    "category": "people",
+    "price": 240,
+    "currency": "EUR",
+    "image": {
+      "src": "https://technical-frontend-api.bokokode.com/img/Product_1.png",
+      "alt": "Porro sed eum quia et rerum repellat qui."
+    },
+    "bestseller": true,
+    "featured": false,
+    "description": "Possimus laborum nihil corporis et et facilis qui. Nesciunt ipsum aliquam sed perspiciatis enim blanditiis.",
+    "people_also_buy": [],
+    "updated_at": "2022-08-09T08:38:32.058000Z",
+    "created_at": "2022-08-09T08:38:32.058000Z"
+  },
+  {
+    "_id": "62f21d08a65692271708e9c3",
+    "name": "Praesentium",
+    "category": "cities",
+    "price": 216,
+    "currency": "EUR",
+    "image": {
+      "src": "https://technical-frontend-api.bokokode.com/img/Product_3.png",
+      "alt": "Porro esse sit magni at ducimus qui."
+    },
+    "bestseller": false,
+    "featured": false,
+    "description": "Accusantium inventore quis accusantium iure dolorem rerum. Est perspiciatis nemo explicabo qui autem animi natus.",
+    "people_also_buy": [],
+    "updated_at": "2022-08-09T08:38:32.058000Z",
+    "created_at": "2022-08-09T08:38:32.058000Z"
+  },
+  {
+    "_id": "62f21d08a65692271708e9c4",
+    "name": "Quam est",
+    "category": "premium",
+    "price": 164,
+    "currency": "EUR",
+    "image": {
+      "src": "https://technical-frontend-api.bokokode.com/img/Product_1.png",
+      "alt": "Consequatur porro adipisci odit quas et cum."
+    },
+    "bestseller": true,
+    "featured": false,
+    "description": "Incidunt facilis aliquid harum voluptatibus nihil. Quia earum iste quo sit. Consequuntur quibusdam porro impedit iste assumenda dolores voluptatem quis. Soluta consequuntur nihil praesentium ab velit.",
+    "people_also_buy": [],
+    "updated_at": "2022-08-09T08:38:32.058000Z",
+    "created_at": "2022-08-09T08:38:32.058000Z"
+  },
+  {
+    "_id": "62f21d08a65692271708e9c5",
+    "name": "Autem ut",
+    "category": "premium",
+    "price": 438,
+    "currency": "EUR",
+    "image": {
+      "src": "https://technical-frontend-api.bokokode.com/img/Product_1.png",
+      "alt": "Laboriosam inventore dolores omnis et et hic nostrum sed."
+    },
+    "bestseller": false,
+    "featured": false,
+    "description": "Qui eos possimus odio enim qui ut aperiam. Totam voluptas maxime magni sit exercitationem et est. Debitis quam quia nam molestiae et aperiam. Consequatur cumque qui harum at incidunt reiciendis ipsa.",
+    "people_also_buy": [],
+    "updated_at": "2022-08-09T08:38:32.059000Z",
+    "created_at": "2022-08-09T08:38:32.059000Z"
+  },
+  {
+    "_id": "62f21d08a65692271708e9c6",
+    "name": "Similique deleniti",
+    "category": "nature",
+    "price": 415,
+    "currency": "EUR",
+    "image": {
+      "src": "https://technical-frontend-api.bokokode.com/img/Product_3.png",
+      "alt": "Quo numquam ut distinctio voluptas at dolore."
+    },
+    "bestseller": true,
+    "featured": false,
+    "description": "Recusandae occaecati laboriosam nihil laborum dolore. Illum alias praesentium ut iure fugiat voluptatem.",
+    "people_also_buy": [],
+    "updated_at": "2022-08-09T08:38:32.059000Z",
+    "created_at": "2022-08-09T08:38:32.059000Z"
+  },
+  {
+    "_id": "62f21d08a65692271708e9c7",
+    "name": "Accusamus fuga",
+    "category": "people",
+    "price": 302,
+    "currency": "EUR",
+    "image": {
+      "src": "https://technical-frontend-api.bokokode.com/img/Product_3.png",
+      "alt": "Vero ut nemo quia veniam autem consequuntur accusantium."
+    },
+    "bestseller": false,
+    "featured": false,
+    "description": "Sed molestias est impedit in eum. Animi a ullam aspernatur esse officiis corrupti id. Culpa laboriosam tempora dolor voluptatem. Ullam dolores et maxime dignissimos.",
+    "people_also_buy": [],
+    "updated_at": "2022-08-09T08:38:32.059000Z",
+    "created_at": "2022-08-09T08:38:32.059000Z"
+  },
+  {
+    "_id": "62f21d08a65692271708e9c8",
+    "name": "Nemo et quod",
+    "category": "people",
+    "price": 30,
+    "currency": "EUR",
+    "image": {
+      "src": "https://technical-frontend-api.bokokode.com/img/Product_3.png",
+      "alt": "Optio quia officiis dolorem officia fuga."
+    },
+    "bestseller": false,
+    "featured": false,
+    "description": "Omnis eos eos deleniti dolores unde accusamus in. Nobis eveniet est et ipsam excepturi ab. Nihil non laborum dignissimos veritatis ab animi.",
+    "people_also_buy": [],
+    "updated_at": "2022-08-09T08:38:32.059000Z",
+    "created_at": "2022-08-09T08:38:32.059000Z"
+  },
+  {
+    "_id": "62f21d08a65692271708e9c9",
+    "name": "Eaque hic",
+    "category": "nature",
+    "price": 108,
+    "currency": "EUR",
+    "image": {
+      "src": "https://technical-frontend-api.bokokode.com/img/Product_3.png",
+      "alt": "Ipsum consequatur molestiae cupiditate dolores voluptatem."
+    },
+    "bestseller": true,
+    "featured": false,
+    "description": "Saepe ut sequi illo recusandae quia vel ad. Nisi et quibusdam asperiores ab. Officiis sit culpa voluptate sunt illo. Beatae inventore ullam laudantium ad rerum voluptates quod deserunt.",
+    "people_also_buy": [],
+    "updated_at": "2022-08-09T08:38:32.059000Z",
+    "created_at": "2022-08-09T08:38:32.059000Z"
+  },
+  {
+    "_id": "62f21d08a65692271708e9ca",
+    "name": "Rerum sapiente",
+    "category": "people",
+    "price": 165,
+    "currency": "EUR",
+    "image": {
+      "src": "https://technical-frontend-api.bokokode.com/img/Product_2.png",
+      "alt": "Tempore et asperiores dolor sed quo voluptatem."
+    },
+    "bestseller": true,
+    "featured": false,
+    "description": "In eos eaque iste maxime consequatur est sit. Ratione sequi facere qui veniam voluptatem rerum sed aliquid. Omnis rerum molestiae dignissimos non doloribus a. Molestiae in natus voluptatem nobis at.",
+    "people_also_buy": [],
+    "updated_at": "2022-08-09T08:38:32.059000Z",
+    "created_at": "2022-08-09T08:38:32.059000Z"
+  },
+  {
+    "_id": "62f21d08a65692271708e9cb",
+    "name": "Repellendus eius",
+    "category": "food",
+    "price": 37,
+    "currency": "EUR",
+    "image": {
+      "src": "https://technical-frontend-api.bokokode.com/img/Product_2.png",
+      "alt": "Illum nihil voluptatibus quas aut."
+    },
+    "bestseller": true,
+    "featured": false,
+    "description": "Quia quos necessitatibus possimus fugit harum. Mollitia eius itaque debitis sit amet. Odit ad deserunt maiores. Illum exercitationem quis molestiae repudiandae animi.",
+    "people_also_buy": [],
+    "updated_at": "2022-08-09T08:38:32.059000Z",
+    "created_at": "2022-08-09T08:38:32.059000Z"
+  },
+  {
+    "_id": "62f21d08a65692271708e9cc",
+    "name": "Fuga et pariatur",
+    "category": "food",
+    "price": 318,
+    "currency": "EUR",
+    "image": {
+      "src": "https://technical-frontend-api.bokokode.com/img/Product_2.png",
+      "alt": "Dolores voluptate praesentium non sit assumenda excepturi."
+    },
+    "bestseller": true,
+    "featured": false,
+    "description": "Asperiores eos qui omnis eos. Amet quisquam sit et dolorem nam quos aut. Dolor voluptatem perspiciatis commodi iste dignissimos qui et. Laboriosam qui dolores qui numquam amet qui. Qui ea earum consequatur voluptatem.",
+    "people_also_buy": [],
+    "updated_at": "2022-08-09T08:38:32.060000Z",
+    "created_at": "2022-08-09T08:38:32.060000Z"
+  },
+  {
+    "_id": "62f21d08a65692271708e9cd",
+    "name": "Et quas rem",
+    "category": "people",
+    "price": 343,
+    "currency": "EUR",
+    "image": {
+      "src": "https://technical-frontend-api.bokokode.com/img/Product_2.png",
+      "alt": "Labore quas voluptatem eum alias ducimus."
+    },
+    "bestseller": true,
+    "featured": false,
+    "description": "Nemo fugiat et omnis aliquid iure. Iusto dolor non soluta quo ut dolores ut. Perspiciatis eum similique velit. Tempora sit possimus alias pariatur atque et. Est qui itaque reiciendis qui qui pariatur praesentium.",
+    "people_also_buy": [],
+    "updated_at": "2022-08-09T08:38:32.060000Z",
+    "created_at": "2022-08-09T08:38:32.060000Z"
+  },
+  {
+    "_id": "62f21d08a65692271708e9ce",
+    "name": "Illo voluptatem",
+    "category": "food",
+    "price": 244,
+    "currency": "EUR",
+    "image": {
+      "src": "https://technical-frontend-api.bokokode.com/img/Product_1.png",
+      "alt": "Ipsam ullam perferendis aut repellat soluta voluptatem voluptates."
+    },
+    "bestseller": true,
+    "featured": false,
+    "description": "Eaque animi est ad sint. Voluptatem eveniet quos aspernatur. Est quo vero ullam iste esse sunt maiores. Qui assumenda sint aliquid et perferendis.",
+    "people_also_buy": [],
+    "updated_at": "2022-08-09T08:38:32.060000Z",
+    "created_at": "2022-08-09T08:38:32.060000Z"
+  },
+  {
+    "_id": "62f21d08a65692271708e9cf",
+    "name": "Aut sit",
+    "category": "landmarks",
+    "price": 218,
+    "currency": "EUR",
+    "image": {
+      "src": "https://technical-frontend-api.bokokode.com/img/Product_3.png",
+      "alt": "Quos ut temporibus expedita voluptate."
+    },
+    "bestseller": false,
+    "featured": false,
+    "description": "Animi praesentium perferendis et sunt distinctio iusto in. Recusandae qui amet sapiente accusantium non enim. Omnis natus labore asperiores quis voluptatem et doloribus ut. Quia inventore aut corrupti dolores ad facere vel.",
+    "people_also_buy": [],
+    "updated_at": "2022-08-09T08:38:32.060000Z",
+    "created_at": "2022-08-09T08:38:32.060000Z"
+  },
+  {
+    "_id": "62f21d08a65692271708e9d0",
+    "name": "Sed praesentium",
+    "category": "premium",
+    "price": 239,
+    "currency": "EUR",
+    "image": {
+      "src": "https://technical-frontend-api.bokokode.com/img/Product_3.png",
+      "alt": "Odio voluptatibus et rerum."
+    },
+    "bestseller": true,
+    "featured": false,
+    "description": "Quas dolores in quia hic non. Praesentium quam amet consequuntur quia dolor fugit. Qui est quod animi et quasi a. Est a eos nihil accusamus quidem sapiente facilis.",
+    "people_also_buy": [],
+    "updated_at": "2022-08-09T08:38:32.060000Z",
+    "created_at": "2022-08-09T08:38:32.060000Z"
+  },
+  {
+    "_id": "62f21d08a65692271708e9d1",
+    "name": "Eius ut",
+    "category": "pets",
+    "price": 237,
+    "currency": "EUR",
+    "image": {
+      "src": "https://technical-frontend-api.bokokode.com/img/Product_2.png",
+      "alt": "Voluptatum nam corrupti nihil ratione quia necessitatibus tempore ut."
+    },
+    "bestseller": false,
+    "featured": false,
+    "description": "Facere porro quo repudiandae et est repudiandae. Atque officia rem explicabo nisi voluptatem necessitatibus facere. Quod quas commodi quae ipsum. Voluptas facere facere ducimus repellat omnis occaecati.",
+    "people_also_buy": [],
+    "updated_at": "2022-08-09T08:38:32.060000Z",
+    "created_at": "2022-08-09T08:38:32.060000Z"
+  },
+  {
+    "_id": "62f21d08a65692271708e9d2",
+    "name": "Et dicta",
+    "category": "pets",
+    "price": 222,
+    "currency": "EUR",
+    "image": {
+      "src": "https://technical-frontend-api.bokokode.com/img/Product_2.png",
+      "alt": "Nisi in nulla tenetur in repellendus."
+    },
+    "bestseller": false,
+    "featured": false,
+    "description": "Nisi eum sunt quidem maxime quas reiciendis qui modi. Inventore qui delectus dignissimos. Voluptas ipsa voluptas fugit maxime iste similique.",
+    "people_also_buy": [],
+    "updated_at": "2022-08-09T08:38:32.060000Z",
+    "created_at": "2022-08-09T08:38:32.060000Z"
+  },
+  {
+    "_id": "62f21d08a65692271708e9d3",
+    "name": "Voluptatem vel",
+    "category": "food",
+    "price": 143,
+    "currency": "EUR",
+    "image": {
+      "src": "https://technical-frontend-api.bokokode.com/img/Product_1.png",
+      "alt": "Perspiciatis nemo sed dolorem alias."
+    },
+    "bestseller": false,
+    "featured": false,
+    "description": "Cupiditate accusantium eos voluptatem est aliquam optio impedit. Aut accusamus eum id praesentium perspiciatis impedit accusantium. Quidem animi rerum iusto. Possimus ab est et nulla quisquam.",
+    "people_also_buy": [],
+    "updated_at": "2022-08-09T08:38:32.061000Z",
+    "created_at": "2022-08-09T08:38:32.061000Z"
+  },
+  {
+    "_id": "62f21d08a65692271708e9d4",
+    "name": "Fugit quo",
+    "category": "premium",
+    "price": 133,
+    "currency": "EUR",
+    "image": {
+      "src": "https://technical-frontend-api.bokokode.com/img/Product_1.png",
+      "alt": "Voluptas accusantium animi eum non aut."
+    },
+    "bestseller": false,
+    "featured": false,
+    "description": "Quaerat eveniet laudantium quia similique impedit reiciendis quia. Molestias est culpa occaecati.",
+    "people_also_buy": [],
+    "updated_at": "2022-08-09T08:38:32.061000Z",
+    "created_at": "2022-08-09T08:38:32.061000Z"
+  }
+]
